@@ -9,4 +9,4 @@ August 13 - It begins
 August 15 - Webcrawling
 
 web_crawl_getty.py - Python function to get all image URL for Gettyimage search
-
+getImages.py - Downloads images from URL list
