@@ -5,3 +5,8 @@ This page will contain all my works on data science from 13 August 2018. Me, Soo
 August 13 - It begins 
 
 1.starting with tensorflow
+
+August 15 - Webcrawling
+
+web_crawl_getty.py - Python function to get all image URL for Gettyimage search
+
